@@ -80,7 +80,7 @@ sudo bash -c "$(curl -sL https://raw.githubusercontent.com/CCCOrz/auto-snell/mai
 wget -O ss-rust.sh --no-check-certificate https://raw.githubusercontent.com/xOS/Shadowsocks-Rust/master/ss-rust.sh && chmod +x ss-rust.sh && ./ss-rust.sh
 ```
 
-* Hy2节点搭建一键脚本
+* Hy2节点搭建一键脚本（第一种Surge可以直接用）
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/passeway/Hysteria/main/Hysteria2.sh)
 ```
