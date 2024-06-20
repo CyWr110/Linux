@@ -5,7 +5,7 @@
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/InstallNET.sh && chmod +x InstallNET.sh && ./InstallNET.sh -d 11 -v 64 -p <自定义密码> -port <自定义端口>
 ```
-* DD脚本
+* DD脚本 (秋水逸冰 改自 萌咖)
 ```
 bash <(wget --no-check-certificate -qO- 'qiu.sh/dd') -d 12 -v 64 -p <自定义密码> -port <自定义端口>
 ```
