@@ -61,6 +61,8 @@ wget -O snell.sh --no-check-certificate https://git.io/Snell.sh && chmod +x snel
 ```
 
 snell 一键搭建脚本
+
+
 安装
 ```
 sudo bash -c "$(curl -sL https://raw.githubusercontent.com/CCCOrz/auto-snell/main/install.sh)"
