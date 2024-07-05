@@ -7,6 +7,11 @@
 apt update -y && apt install -y curl socat wget
 ```
 
+* VPS系统更新
+```
+apt update
+```
+
 * Kejilion一键脚本
 ```
 curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
