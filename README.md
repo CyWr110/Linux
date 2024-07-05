@@ -8,7 +8,7 @@ apt update -y && apt install -y curl socat wget
 ```
 
 * warp脚本：
-* ```
+```
 wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh [option] [lisence/url/token]
 ```
 再次启动：
