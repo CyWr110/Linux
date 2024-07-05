@@ -2,6 +2,12 @@
 
 
 
+
+* xui脚本：
+```
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+```
+
 * 必要更新操作(Debian/Ubuntu)
 ```
 apt update -y && apt install -y curl socat wget
