@@ -40,7 +40,7 @@ apt update -y  && apt install -y curl
 
 * 流媒体解锁查询
 ```
-bash <(curl -L -s check.unlock.media)
+bash <(curl -L -s media.ispvps.com)
 ```
 
 * 一键搭建SS节点
