@@ -17,6 +17,11 @@ curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejili
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 
+* 一键安装宝塔面板
+```
+wget -O install.sh https://download.bt.cn/install/install-ubuntu_6.0.sh && bash install.sh ed8484bec
+```
+
 * warp脚本：
 ```
 wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh [option] [lisence/url/token]
