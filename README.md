@@ -1,7 +1,6 @@
 # Linux
 
 
-
 * 必要更新操作(Debian/Ubuntu)
 ```
 apt update -y && apt install -y curl socat wget
