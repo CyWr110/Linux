@@ -2,15 +2,19 @@
 
 
 
+* 必要更新操作(Debian/Ubuntu)
+```
+apt update -y && apt install -y curl socat wget
+```
+
+* Kejilion一键脚本
+```
+curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
+```
 
 * xui脚本：
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-```
-
-* 必要更新操作(Debian/Ubuntu)
-```
-apt update -y && apt install -y curl socat wget
 ```
 
 * warp脚本：
@@ -25,11 +29,6 @@ warp [option] [lisence]
 * 国外vps安装Dcoker
 ```
 curl -fsSL https://get.docker.com | bash -s docker 
-```
-
-* Kejilion一键脚本
-```
-curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 ```
 
 * Debian/Ubuntu安装下载工具
