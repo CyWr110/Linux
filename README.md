@@ -73,6 +73,12 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hys
 curl -sS -o Snell.sh https://raw.githubusercontent.com/passeway/Snell/main/Snell.sh && chmod +x Snell.sh && ./Snell.sh
 ```
 
+* Snell V4
+
+```
+wget -O snell.sh --no-check-certificate https://git.io/Snell.sh && chmod +x snell.sh && ./snell.sh
+```
+
 * 网速测试 配置测试
 ```
 curl -L https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh -o ecs.sh && chmod +x ecs.sh && bash ecs.sh
