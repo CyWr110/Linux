@@ -1,5 +1,6 @@
 #命令 #常用命令 #dcoker #snell #节点搭建 #Linux命令 #节点 #Linux 
 
+
 * root权限：
 ```
 sudo -i
