@@ -9,9 +9,7 @@ curl https://raw.githubusercontent.com/aipeach/cloudflare-api-v4-ddns/master/cf-
 ```
 vi cf-v4-ddns.sh
 ```
-```
 或者直接打开/root/cf-v4.ddns.sh文件编辑修改后保存
-```
 
 * incorrect api-key results in E_UNAUTH error
 
