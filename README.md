@@ -16,6 +16,11 @@ apt update
 curl -sS -O https://kejilion.pro/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
 ```
 
+* 通过yum安装wegt
+```
+yum install wget
+```
+
 * warp脚本：
 ```
 wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh [option] [lisence/url/token]
