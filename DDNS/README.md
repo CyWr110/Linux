@@ -11,6 +11,7 @@ vi cf-v4-ddns.sh
 ```
 或者直接打开/root/cf-v4.ddns.sh文件编辑修改后保存
 
+
 * incorrect api-key results in E_UNAUTH error
 
 填写 CF全局Global API Key
