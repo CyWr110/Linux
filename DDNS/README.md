@@ -15,21 +15,25 @@ vi cf-v4-ddns.sh
 * incorrect api-key results in E_UNAUTH error
 
   填写 CF全局Global API Key
+
   CFKEY=
 
 * Username, eg: user@example.com
 
   填写 CloudFlare 登陆邮箱
+
   CFUSER=
 
 * Zone name, eg: example.com
 
   填写需要用来 DDNS 的一级域名
+
   CFZONE_NAME=
 
 * Hostname to update, eg: homeserver.example.com
 
   填写 DDNS 的二级域名(只需填写前缀)
+
   CFRECORD_NAME=
 
 * 首次运行脚本，输出内容会显示当前 IP，进入 cloudflare 查看 确保 IP 已变更为当前 IP
